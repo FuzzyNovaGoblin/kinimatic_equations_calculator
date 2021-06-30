@@ -1,8 +1,3 @@
 # kinematic_equations_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+5 simple equations that I just used a lot in class 
